@@ -66,7 +66,7 @@ Although it's possible to use any of these three options at any one time, it's n
 
 __Limitations__
 
-This Cloud Function does not currently support accessing the Xooa Marketplace through Firebase Auth, and it limited to the use of the Xooa API only.
+This Cloud Function does not currently support accessing the Xooa Marketplace through Firebase Auth, and is limited to the use of the Xooa API only.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
